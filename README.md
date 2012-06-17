@@ -1,0 +1,4 @@
+VietSpeedLib
+============
+
+Vietnamese speech recognition
